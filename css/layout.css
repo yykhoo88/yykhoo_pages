@@ -1,0 +1,12 @@
+/* Navigation menu */
+.navmenu {
+	margin: 0 0 1em 0;
+	padding: 0.2em 0.2em;
+}
+
+.navmenu  li {
+	background-color: #FFFFFF;
+	display: inline;
+	padding: 0 1em 0 1em;
+	border-radius: 5px;
+}
