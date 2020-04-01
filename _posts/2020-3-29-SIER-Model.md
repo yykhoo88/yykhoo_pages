@@ -96,7 +96,7 @@ ax.plot(t, results);
 ```
 
 
-![png](output_5_0.png)
+![png](/images/2020-3-29-SIER-Modeloutput_5_0.png)
 
 
 From the simulation, it seems the entire population (100%) will be infected, leaving no susceptible compartments (see blue line). The rate of peak infection is at around 15d, with 60% compartments are exposed and 20% infection rate. 
@@ -121,7 +121,7 @@ ax.plot(t, results2);
 ```
 
 
-![png](output_7_0.png)
+![png](/images/2020-3-29-SIER-Modeloutput_7_0.png)
 
 
 It seems that the virus is still potent enough to infect the entire population. However, the peak infection rate had reduced and shifted slightly to the right side. This shift of peak infection rate will buy our healthcare system some time, and avoid overcrowding the healthcare system. This is what everyone been talking about when they wanted to ["flatten the curve"](https://www.npr.org/sections/coronavirus-live-updates/2020/03/26/822130807/-glimmer-of-hope-when-can-we-say-social-distancing-is-working). 
@@ -151,7 +151,7 @@ ax.legend();
 ```
 
 
-![png](output_9_0.png)
+![png](/images/2020-3-29-SIER-Modeloutput_9_0.png)
 
 
 From the SEIR model without any social distancing measure, it seems that everyone in the population will be infected. However, with social distancing measure, the virus couldn't infect everyone. This can be seen in the graph of susceptible population against time, where it flatlines at > 0 percent of population.
@@ -177,7 +177,7 @@ ax.legend();
 ```
 
 
-![png](output_11_0.png)
+![png](/images/2020-3-29-SIER-Modeloutput_11_0.png)
 
 
 With stringent social distancing, it is likely that the $\delta$ factor can be lower, which severely retards the virus's spread. 
