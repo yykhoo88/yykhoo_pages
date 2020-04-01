@@ -183,6 +183,3 @@ ax.legend();
 With stringent social distancing, it is likely that the $\delta$ factor can be lower, which severely retards the virus's spread. 
 
 
-```python
-
-```
