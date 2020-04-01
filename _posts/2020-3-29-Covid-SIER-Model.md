@@ -1,15 +1,14 @@
 ---
 layout: post
 mathjax: true
-title:  "Awesome Data Visualization"
+title:  "Impact of social distancing measure in COVID-2019's spread using SEIR model"
 date:   2017-10-10 12:07:25 +0000
 categories:
   - data
 ---
 
-Impact of social distancing measure in COVID-2019's spread using SEIR model
-
 note by [YY Khoo](http://yy-khoo.com/) (2020)
+
 
 This notebook is my first attempt to use the [compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology). This work is inspired largely by recent outbreak in COVID-19 and [this](https://towardsdatascience.com/social-distancing-to-slow-the-coronavirus-768292f04296) article. This model is merely a draft and should not be used for projection!
 
