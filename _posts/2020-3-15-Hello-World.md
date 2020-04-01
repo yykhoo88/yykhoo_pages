@@ -1,11 +1,16 @@
 ---
 layout: post
-title: You're up and running!2
+mathjax: true
+title: Hello World!
+date:   2020-03-20
 tags: [github-pages]
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello world! This is the first time I'm using [Jekyll](https://jekyllrb.com/) to write a blog! In fact, I'm so tempted to use the blog as a new platform that I've customized it slightly:
+1. Forked this blog from [jekyllnow](https://www.jekyllnow.com/).
+2. Added [tags](http://www.minddust.com/post/tags-and-categories-on-github-pages/) to the blog.
+3. Changed the [structures slightly](https://www.linode.com/docs/applications/project-management/jupyter-notebook-on-jekyll/) to make it compatible with [jupyter notebooks](https://jupyter.org/)!
+4. Fixed [double frame bug](https://stackoverflow.com/questions/55308142/why-do-i-get-a-double-frame-around-markdown-code-block-on-jekyll-site).
+5. Also read a [style guide](http://www.jekyllnow.com/Markdown-Style-Guide/) for markdown.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+That's it! I've created my first markdown, blog aware static page. Cool, huh?

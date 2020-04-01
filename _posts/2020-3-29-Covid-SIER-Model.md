@@ -1,10 +1,9 @@
 ---
 layout: post
 mathjax: true
-title:  "Impact of social distancing measure in COVID-2019's spread using SEIR model"
-date:   2017-10-10 12:07:25 +0000
-categories:
-  - data
+title:  Impact of social distancing measure in COVID-2019's spread using SEIR model
+date:   2020-03-20
+tags: [github-pages]
 ---
 
 note by [YY Khoo](http://yy-khoo.com/) (2020)
