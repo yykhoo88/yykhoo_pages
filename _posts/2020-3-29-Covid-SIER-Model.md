@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title:  Impact of social distancing measure in COVID-2019's spread using SEIR model
+title:  Modelling COVID-19 using SEIR Model.
 date:   2020-03-20
 tags: [github-pages]
 ---
