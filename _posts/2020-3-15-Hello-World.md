@@ -5,7 +5,7 @@ title: Hello World!
 date:   2020-03-20
 tags: [github-pages]
 ---
-![Hello World](/images/helloworld.png)
+<center> ![Hello World](/images/helloworld.png =250x) </center>
 
 Hello world! This is the first time I'm using [Jekyll](https://jekyllrb.com/) to write a blog! In fact, I'm so tempted to use the blog as a new platform that I've customized it slightly:
 1. Forked this blog from [jekyllnow](https://www.jekyllnow.com/).
