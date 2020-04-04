@@ -6,6 +6,8 @@ date:   2020-03-20
 tags: [github-pages]
 ---
 
+<center><img src="/images/virus.jpg" width="500" /></center>
+
 This notebook is my first attempt to use the [compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology). This work is inspired largely by recent outbreak in COVID-19 and [this](https://towardsdatascience.com/social-distancing-to-slow-the-coronavirus-768292f04296) article. This model is merely a draft and should not be used for projection!
 
 The [SEIR model](https://idmod.org/docs/malaria/model-seir.html) is a model used to model infectious disease. The name itself is an acronym for Susceptible, Exposed, Infected, Recovered. When a virus is introduced to a population, an infected person may move from one location to another (also known as from one compartment to another compartment). This movement will move the virus throughout the population. The full model is as below, for S being fraction of population being susceptible, E being exposed, I for infected, and R for recovered.
