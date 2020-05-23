@@ -57,4 +57,4 @@ After that, you'll need to also configure wordpress to [redirect](https://docs.b
 
 And change the field "define('WP_SITEURL') and ('WP_HOME')" to your domain name. You're done!
 
-<center><img src="/images/wpamazon/wp_siteurl.png" width="800" /></center>
+<center><img src="/images/wpamazon/wp_siteurl.png" width="500" /></center>
