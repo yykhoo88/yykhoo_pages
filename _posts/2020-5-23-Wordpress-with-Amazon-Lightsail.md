@@ -10,7 +10,7 @@ tags: [github-pages]
 
 Some programming hobby. Let's attempt to build a [wordpress](https://wordpress.com/) website using [Amazon Lightsail](https://aws.amazon.com/lightsail/). This is an easy tutorial and we should be able to build it in less than 10 minutes.
 
-#Sign Up for Amazon AWS
+## Sign Up for Amazon AWS
 
 $$
 \begin{align}
