@@ -1,9 +1,9 @@
 ---
 layout: post
 mathjax: true
-title: Using QuantLib
+title: Using QuantLib: Building SOFR curve
 date:   2023-09-03
-tags: [github-pages]
+tags: [QuantLib]
 ---
 <center><img src="/images/2023-09-03/YieldCurve.png" width="500" /></center>
 
@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 ```
 
-<center><img src="/images/2023-09-03/datatable.png" width="500" /></center>
+<center><img src="/images/2023-09-03/datatable.png" width="300" /></center>
 
 ```python
 #loading curve data from Excel
@@ -65,3 +65,5 @@ for rate, tenor in list(curveData[["MarketQuote","Tenor"]].itertuples(index=Fals
 for a in ois_swaps:
     print(a.NPV())
 ```
+
+As expected, the NPV is zero!
