@@ -19,7 +19,7 @@ Now let's put in the usual symbol for sensitivities,
 
 $$
 \begin{align}
-\theta + rS\Delta + \frac{1}{2} \sigma^2 S^2 \gamma &= rV
+\theta + rS\Delta + \frac{1}{2} \sigma^2 S^2 \gamma &= rV \\
 \theta + \frac{1}{2} \sigma^2 S^2 \gamma &= r [V-S\Delta]
 \end{align}
 $$
