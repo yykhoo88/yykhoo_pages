@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: Bootstrapping SOFR Curve with QuantLib
 date:   2023-09-03
-tags: [QuantLib]
+tags: [quantlib]
 ---
 <center><img src="/images/2023-09-03/YieldCurve.png" width="450" /></center>
 

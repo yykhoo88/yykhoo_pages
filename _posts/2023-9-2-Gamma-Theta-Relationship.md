@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: The option Gamma-Theta relationship
 date:   2023-09-02
-tags: [Black-Scholes]
+tags: [black-scholes]
 ---
 <center><img src="/images/2023-09-02/gamma-theta.png" width="300" /></center>
 
