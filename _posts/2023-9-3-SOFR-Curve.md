@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: Using QuantLib: Building SOFR curve
+title: Bootstrapping SOFR Curve with QuantLib
 date:   2023-09-03
 tags: [QuantLib]
 ---
