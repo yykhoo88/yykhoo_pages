@@ -66,4 +66,4 @@ for a in ois_swaps:
     print(a.NPV())
 ```
 
-As expected, the NPV is zero!
+As expected, the NPV is zero! The next step would be to double check the zero rates. Until next time.
