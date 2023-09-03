@@ -5,7 +5,7 @@ title: Bootstrapping SOFR Curve with QuantLib
 date:   2023-09-03
 tags: [QuantLib]
 ---
-<center><img src="/images/2023-09-03/YieldCurve.png" width="500" /></center>
+<center><img src="/images/2023-09-03/YieldCurve.png" width="450" /></center>
 
 I have been a valuation quant for the past 10 years. I have used numerous tools, especially C# and Python when it comes to modelling. However, we had always built codes from scratch, module by module.
 
